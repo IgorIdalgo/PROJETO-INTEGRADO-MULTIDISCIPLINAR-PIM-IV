@@ -1,1 +1,25 @@
-# PROJETO-INTEGRADO-MULTIDISCIPLINAR-PIM-IV
+# 📌 Projeto Integrado Multidisciplicar PIM IV 
+## Desenvolvimento de um Sistema Integrado para Gestão de Chamados e Suporte Técnico com Apoio de IA
+### 📝 Descrição do Desafio  
+O presente projeto acadêmico apresenta o desenvolvimento de um sistema integrado para gestão de chamados e suporte técnico com apoio de Inteligência Artificial. O objetivo foi criar uma plataforma que otimizasse o atendimento técnico interno, automatizando processos e aprimorando a experiência do usuário por meio de FAQs dinâmicas e sugestões automáticas de solução. A metodologia adotada baseou-se no paradigma da Programação Orientada a Objetos, utilizando C# e ASP.NET no back-end e React.js, HTML5, CSS3 e JavaScript no front-end, além de SQL Server para o banco de dados. Foram aplicados princípios do PMI no gerenciamento do projeto, práticas de qualidade de software e conceitos de empreendedorismo para avaliar a viabilidade técnica e mercadológica do sistema. A pesquisa abordou ainda a conformidade com a Lei Geral de Proteção de Dados (LGPD), garantindo segurança e privacidade das informações. Os resultados evidenciaram a eficiência da integração entre as plataformas desktop, web e mobile, além do uso de IA para redução do tempo de resposta e melhoria da precisão nas soluções oferecidas. Concluiu-se que o sistema proposto contribuiu para maior agilidade, organização e confiabilidade no suporte técnico, demonstrando viabilidade técnica e aplicabilidade prática em ambientes corporativos.
+
+## Backlog do Produto
+
+Para o Backlog do Produto, acesse:
+
+## Evolução do Projeto
+Para a Evolução do Projeto, acesse:
+
+## Tecnologias Utilizadas
+
+Para as Tecnologias Utilizadas, acesse: 
+
+## Estrutura do Projeto
+Para a Estrutura do Projeto, acesse: 
+
+## Como Executar o Projeto
+Para a execução do Projeto, acesse: 
+
+##  Equipe
+
+<table> <tr> <td align="center"> <a href="https://github.com/IgorIdalgo"> <img src="https://avatars.githubusercontent.com/IgorIdalgo" width="100px;" alt="Igor Idalgo"/> <br /> <sub><b>Igor Idalgo</b></sub> </a> <br /> <a href="https://www.linkedin.com/in/igor-sene">🔗 GitHub</a> </td> <td align="center"> <a href="https://github.com/HenryDamasceno01"> <img src="https://avatars.githubusercontent.com/HenryDamasceno01" width="100px;" alt="Henry Damasceno"/> <br /> <sub><b>Henry Damasceno</b></sub> </a> <br /> <a href="https://www.linkedin.com/in/henry-damasceno-101b0a2ba/">🔗 LinkedIn</a> </td> <td align="center"> <a href="https://github.com/gobiss"> <img src="https://avatars.githubusercontent.com/gobiss" width="100px;" alt="Gobiss"/> <br /> <sub><b>Gobiss</b></sub> </a> <br /> <a href="https://github.com/gobiss">🔗 GitHub</a> </td> <td align="center"> <a href="https://github.com/anaclaraleao"> <img src="https://avatars.githubusercontent.com/anaclaraleao" width="100px;" alt="Ana Clara"/> <br /> <sub><b>Ana Clara</b></sub> </a> <br /> <a href="https://github.com/anaclaraleao">🔗 GitHub</a> </td> <td align="center"> <a href="https://github.com/Pedrocarval"> <img src="https://avatars.githubusercontent.com/u/203900219?v=4" width="100px;" alt="Pedro Carval"/> <br /> <sub><b>Pedro Carval</b></sub> </a> <br /> <a href="https://github.com/Pedrocarval">🔗 GitHub</a> </tr> </table>
