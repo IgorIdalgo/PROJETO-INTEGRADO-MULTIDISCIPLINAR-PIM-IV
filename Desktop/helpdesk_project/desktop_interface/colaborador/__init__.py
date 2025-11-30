@@ -1,0 +1,1 @@
+from .dashboard_colaborador import abrir_dashboard_colaborador
