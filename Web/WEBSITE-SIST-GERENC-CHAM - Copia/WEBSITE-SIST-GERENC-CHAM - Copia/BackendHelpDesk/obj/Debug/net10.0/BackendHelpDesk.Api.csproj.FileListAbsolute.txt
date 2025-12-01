@@ -1,0 +1,71 @@
+D:\downloads do google\WEBSITE-SIST-GERENC-CHAM\BackendHelpDesk\bin\Debug\net10.0\BackendHelpDesk.Api.staticwebassets.endpoints.json
+D:\downloads do google\WEBSITE-SIST-GERENC-CHAM\BackendHelpDesk\bin\Debug\net10.0\BackendHelpDesk.Api.exe
+D:\downloads do google\WEBSITE-SIST-GERENC-CHAM\BackendHelpDesk\bin\Debug\net10.0\BackendHelpDesk.Api.deps.json
+D:\downloads do google\WEBSITE-SIST-GERENC-CHAM\BackendHelpDesk\bin\Debug\net10.0\BackendHelpDesk.Api.runtimeconfig.json
+D:\downloads do google\WEBSITE-SIST-GERENC-CHAM\BackendHelpDesk\bin\Debug\net10.0\BackendHelpDesk.Api.dll
+D:\downloads do google\WEBSITE-SIST-GERENC-CHAM\BackendHelpDesk\bin\Debug\net10.0\BackendHelpDesk.Api.pdb
+D:\downloads do google\WEBSITE-SIST-GERENC-CHAM\BackendHelpDesk\bin\Debug\net10.0\Microsoft.OpenApi.dll
+D:\downloads do google\WEBSITE-SIST-GERENC-CHAM\BackendHelpDesk\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\downloads do google\WEBSITE-SIST-GERENC-CHAM\BackendHelpDesk\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\downloads do google\WEBSITE-SIST-GERENC-CHAM\BackendHelpDesk\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\downloads do google\WEBSITE-SIST-GERENC-CHAM\BackendHelpDesk\obj\Debug\net10.0\BackendHelpDesk.Api.csproj.AssemblyReference.cache
+D:\downloads do google\WEBSITE-SIST-GERENC-CHAM\BackendHelpDesk\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\downloads do google\WEBSITE-SIST-GERENC-CHAM\BackendHelpDesk\obj\Debug\net10.0\BackendHelpDesk.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\downloads do google\WEBSITE-SIST-GERENC-CHAM\BackendHelpDesk\obj\Debug\net10.0\BackendHelpDesk.Api.AssemblyInfoInputs.cache
+D:\downloads do google\WEBSITE-SIST-GERENC-CHAM\BackendHelpDesk\obj\Debug\net10.0\BackendHelpDesk.Api.AssemblyInfo.cs
+D:\downloads do google\WEBSITE-SIST-GERENC-CHAM\BackendHelpDesk\obj\Debug\net10.0\BackendHelpDesk.Api.csproj.CoreCompileInputs.cache
+D:\downloads do google\WEBSITE-SIST-GERENC-CHAM\BackendHelpDesk\obj\Debug\net10.0\BackendHelpDesk.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\downloads do google\WEBSITE-SIST-GERENC-CHAM\BackendHelpDesk\obj\Debug\net10.0\BackendHelpDesk.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\downloads do google\WEBSITE-SIST-GERENC-CHAM\BackendHelpDesk\obj\Debug\net10.0\rjimswa.dswa.cache.json
+D:\downloads do google\WEBSITE-SIST-GERENC-CHAM\BackendHelpDesk\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+D:\downloads do google\WEBSITE-SIST-GERENC-CHAM\BackendHelpDesk\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+D:\downloads do google\WEBSITE-SIST-GERENC-CHAM\BackendHelpDesk\obj\Debug\net10.0\scopedcss\bundle\BackendHelpDesk.Api.styles.css
+D:\downloads do google\WEBSITE-SIST-GERENC-CHAM\BackendHelpDesk\obj\Debug\net10.0\staticwebassets.build.json
+D:\downloads do google\WEBSITE-SIST-GERENC-CHAM\BackendHelpDesk\obj\Debug\net10.0\staticwebassets.build.json.cache
+D:\downloads do google\WEBSITE-SIST-GERENC-CHAM\BackendHelpDesk\obj\Debug\net10.0\staticwebassets.development.json
+D:\downloads do google\WEBSITE-SIST-GERENC-CHAM\BackendHelpDesk\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+D:\downloads do google\WEBSITE-SIST-GERENC-CHAM\BackendHelpDesk\obj\Debug\net10.0\swae.build.ex.cache
+D:\downloads do google\WEBSITE-SIST-GERENC-CHAM\BackendHelpDesk\obj\Debug\net10.0\BackendH.2CFF6583.Up2Date
+D:\downloads do google\WEBSITE-SIST-GERENC-CHAM\BackendHelpDesk\obj\Debug\net10.0\BackendHelpDesk.Api.dll
+D:\downloads do google\WEBSITE-SIST-GERENC-CHAM\BackendHelpDesk\obj\Debug\net10.0\refint\BackendHelpDesk.Api.dll
+D:\downloads do google\WEBSITE-SIST-GERENC-CHAM\BackendHelpDesk\obj\Debug\net10.0\BackendHelpDesk.Api.pdb
+D:\downloads do google\WEBSITE-SIST-GERENC-CHAM\BackendHelpDesk\obj\Debug\net10.0\BackendHelpDesk.Api.genruntimeconfig.cache
+D:\downloads do google\WEBSITE-SIST-GERENC-CHAM\BackendHelpDesk\obj\Debug\net10.0\ref\BackendHelpDesk.Api.dll
+D:\downloads do google\WEBSITE-SIST-GERENC-CHAM\BackendHelpDesk\bin\Debug\net10.0\body.json
+D:\downloads do google\WEBSITE-SIST-GERENC-CHAM\BackendHelpDesk\bin\Debug\net10.0\temp_body.json
+C:\Users\ana.ferreira\Downloads\programação\WEBSITE-SIST-GERENC-CHAM - Copia\WEBSITE-SIST-GERENC-CHAM - Copia\BackendHelpDesk\bin\Debug\net10.0\appsettings.json
+C:\Users\ana.ferreira\Downloads\programação\WEBSITE-SIST-GERENC-CHAM - Copia\WEBSITE-SIST-GERENC-CHAM - Copia\BackendHelpDesk\bin\Debug\net10.0\body.json
+C:\Users\ana.ferreira\Downloads\programação\WEBSITE-SIST-GERENC-CHAM - Copia\WEBSITE-SIST-GERENC-CHAM - Copia\BackendHelpDesk\bin\Debug\net10.0\temp_body.json
+C:\Users\ana.ferreira\Downloads\programação\WEBSITE-SIST-GERENC-CHAM - Copia\WEBSITE-SIST-GERENC-CHAM - Copia\BackendHelpDesk\bin\Debug\net10.0\BackendHelpDesk.Api.staticwebassets.endpoints.json
+C:\Users\ana.ferreira\Downloads\programação\WEBSITE-SIST-GERENC-CHAM - Copia\WEBSITE-SIST-GERENC-CHAM - Copia\BackendHelpDesk\bin\Debug\net10.0\BackendHelpDesk.Api.exe
+C:\Users\ana.ferreira\Downloads\programação\WEBSITE-SIST-GERENC-CHAM - Copia\WEBSITE-SIST-GERENC-CHAM - Copia\BackendHelpDesk\bin\Debug\net10.0\BackendHelpDesk.Api.deps.json
+C:\Users\ana.ferreira\Downloads\programação\WEBSITE-SIST-GERENC-CHAM - Copia\WEBSITE-SIST-GERENC-CHAM - Copia\BackendHelpDesk\bin\Debug\net10.0\BackendHelpDesk.Api.runtimeconfig.json
+C:\Users\ana.ferreira\Downloads\programação\WEBSITE-SIST-GERENC-CHAM - Copia\WEBSITE-SIST-GERENC-CHAM - Copia\BackendHelpDesk\bin\Debug\net10.0\BackendHelpDesk.Api.dll
+C:\Users\ana.ferreira\Downloads\programação\WEBSITE-SIST-GERENC-CHAM - Copia\WEBSITE-SIST-GERENC-CHAM - Copia\BackendHelpDesk\bin\Debug\net10.0\BackendHelpDesk.Api.pdb
+C:\Users\ana.ferreira\Downloads\programação\WEBSITE-SIST-GERENC-CHAM - Copia\WEBSITE-SIST-GERENC-CHAM - Copia\BackendHelpDesk\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\ana.ferreira\Downloads\programação\WEBSITE-SIST-GERENC-CHAM - Copia\WEBSITE-SIST-GERENC-CHAM - Copia\BackendHelpDesk\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ana.ferreira\Downloads\programação\WEBSITE-SIST-GERENC-CHAM - Copia\WEBSITE-SIST-GERENC-CHAM - Copia\BackendHelpDesk\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ana.ferreira\Downloads\programação\WEBSITE-SIST-GERENC-CHAM - Copia\WEBSITE-SIST-GERENC-CHAM - Copia\BackendHelpDesk\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ana.ferreira\Downloads\programação\WEBSITE-SIST-GERENC-CHAM - Copia\WEBSITE-SIST-GERENC-CHAM - Copia\BackendHelpDesk\obj\Debug\net10.0\BackendHelpDesk.Api.csproj.AssemblyReference.cache
+C:\Users\ana.ferreira\Downloads\programação\WEBSITE-SIST-GERENC-CHAM - Copia\WEBSITE-SIST-GERENC-CHAM - Copia\BackendHelpDesk\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\ana.ferreira\Downloads\programação\WEBSITE-SIST-GERENC-CHAM - Copia\WEBSITE-SIST-GERENC-CHAM - Copia\BackendHelpDesk\obj\Debug\net10.0\BackendHelpDesk.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ana.ferreira\Downloads\programação\WEBSITE-SIST-GERENC-CHAM - Copia\WEBSITE-SIST-GERENC-CHAM - Copia\BackendHelpDesk\obj\Debug\net10.0\BackendHelpDesk.Api.AssemblyInfoInputs.cache
+C:\Users\ana.ferreira\Downloads\programação\WEBSITE-SIST-GERENC-CHAM - Copia\WEBSITE-SIST-GERENC-CHAM - Copia\BackendHelpDesk\obj\Debug\net10.0\BackendHelpDesk.Api.AssemblyInfo.cs
+C:\Users\ana.ferreira\Downloads\programação\WEBSITE-SIST-GERENC-CHAM - Copia\WEBSITE-SIST-GERENC-CHAM - Copia\BackendHelpDesk\obj\Debug\net10.0\BackendHelpDesk.Api.csproj.CoreCompileInputs.cache
+C:\Users\ana.ferreira\Downloads\programação\WEBSITE-SIST-GERENC-CHAM - Copia\WEBSITE-SIST-GERENC-CHAM - Copia\BackendHelpDesk\obj\Debug\net10.0\BackendHelpDesk.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ana.ferreira\Downloads\programação\WEBSITE-SIST-GERENC-CHAM - Copia\WEBSITE-SIST-GERENC-CHAM - Copia\BackendHelpDesk\obj\Debug\net10.0\BackendHelpDesk.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ana.ferreira\Downloads\programação\WEBSITE-SIST-GERENC-CHAM - Copia\WEBSITE-SIST-GERENC-CHAM - Copia\BackendHelpDesk\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\ana.ferreira\Downloads\programação\WEBSITE-SIST-GERENC-CHAM - Copia\WEBSITE-SIST-GERENC-CHAM - Copia\BackendHelpDesk\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\ana.ferreira\Downloads\programação\WEBSITE-SIST-GERENC-CHAM - Copia\WEBSITE-SIST-GERENC-CHAM - Copia\BackendHelpDesk\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\ana.ferreira\Downloads\programação\WEBSITE-SIST-GERENC-CHAM - Copia\WEBSITE-SIST-GERENC-CHAM - Copia\BackendHelpDesk\obj\Debug\net10.0\scopedcss\bundle\BackendHelpDesk.Api.styles.css
+C:\Users\ana.ferreira\Downloads\programação\WEBSITE-SIST-GERENC-CHAM - Copia\WEBSITE-SIST-GERENC-CHAM - Copia\BackendHelpDesk\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\ana.ferreira\Downloads\programação\WEBSITE-SIST-GERENC-CHAM - Copia\WEBSITE-SIST-GERENC-CHAM - Copia\BackendHelpDesk\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\ana.ferreira\Downloads\programação\WEBSITE-SIST-GERENC-CHAM - Copia\WEBSITE-SIST-GERENC-CHAM - Copia\BackendHelpDesk\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\ana.ferreira\Downloads\programação\WEBSITE-SIST-GERENC-CHAM - Copia\WEBSITE-SIST-GERENC-CHAM - Copia\BackendHelpDesk\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\ana.ferreira\Downloads\programação\WEBSITE-SIST-GERENC-CHAM - Copia\WEBSITE-SIST-GERENC-CHAM - Copia\BackendHelpDesk\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\ana.ferreira\Downloads\programação\WEBSITE-SIST-GERENC-CHAM - Copia\WEBSITE-SIST-GERENC-CHAM - Copia\BackendHelpDesk\obj\Debug\net10.0\BackendH.2CFF6583.Up2Date
+C:\Users\ana.ferreira\Downloads\programação\WEBSITE-SIST-GERENC-CHAM - Copia\WEBSITE-SIST-GERENC-CHAM - Copia\BackendHelpDesk\obj\Debug\net10.0\BackendHelpDesk.Api.dll
+C:\Users\ana.ferreira\Downloads\programação\WEBSITE-SIST-GERENC-CHAM - Copia\WEBSITE-SIST-GERENC-CHAM - Copia\BackendHelpDesk\obj\Debug\net10.0\refint\BackendHelpDesk.Api.dll
+C:\Users\ana.ferreira\Downloads\programação\WEBSITE-SIST-GERENC-CHAM - Copia\WEBSITE-SIST-GERENC-CHAM - Copia\BackendHelpDesk\obj\Debug\net10.0\BackendHelpDesk.Api.pdb
+C:\Users\ana.ferreira\Downloads\programação\WEBSITE-SIST-GERENC-CHAM - Copia\WEBSITE-SIST-GERENC-CHAM - Copia\BackendHelpDesk\obj\Debug\net10.0\BackendHelpDesk.Api.genruntimeconfig.cache
+C:\Users\ana.ferreira\Downloads\programação\WEBSITE-SIST-GERENC-CHAM - Copia\WEBSITE-SIST-GERENC-CHAM - Copia\BackendHelpDesk\obj\Debug\net10.0\ref\BackendHelpDesk.Api.dll

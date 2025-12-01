@@ -1,0 +1,99 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 0 0% 100%;
+    --foreground: 222.2 84% 4.9%;
+
+    --card: 0 0% 100%;
+    --card-foreground: 222.2 84% 4.9%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 222.2 84% 4.9%;
+
+    --primary: 180 87% 32%; /* Teal/Ocean Blue */
+    --primary-foreground: 210 40% 98%;
+
+    --secondary: 173 87% 32%; /* Existing teal secondary color */
+    --secondary-foreground: 222.2 47.4% 11.2%;
+
+    --muted: 210 40% 96.1%;
+    --muted-foreground: 215.4 16.3% 46.9%;
+
+    --accent: 173 87% 91%;
+    --accent-foreground: 222.2 47.4% 11.2%;
+
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 210 40% 98%;
+
+    --border: 180 87% 32%; /* Match primary color */
+    --input: 180 87% 32%; /* Match primary color */
+    --ring: 180 87% 32%; /* Match primary color */
+
+    --radius: 0.5rem;
+
+    --sidebar-background: 180 87% 32%; /* Teal/Ocean Blue */
+    --sidebar-foreground: 0 0% 100%;
+    --sidebar-primary: 173 87% 32%;
+    --sidebar-primary-foreground: 0 0% 100%;
+    --sidebar-accent: 180 87% 91%; /* Lighter teal */
+    --sidebar-accent-foreground: 180 87% 32%;
+    --sidebar-border: 180 87% 22%; /* Darker teal */
+    --sidebar-ring: 180 87% 32%;
+  }
+
+  .dark {
+    --background: 222.2 84% 4.9%;
+    --foreground: 210 40% 98%;
+
+    --card: 222.2 84% 4.9%;
+    --card-foreground: 210 40% 98%;
+
+    --popover: 222.2 84% 4.9%;
+    --popover-foreground: 210 40% 98%;
+
+    --primary: 180 87% 25%; /* Darker teal for dark mode */
+    --primary-foreground: 222.2 47.4% 11.2%;
+
+    --secondary: 173 80% 40%;
+    --secondary-foreground: 210 40% 98%;
+
+    --muted: 217.2 32.6% 17.5%;
+    --muted-foreground: 215 20.2% 65.1%;
+
+    --accent: 217.2 32.6% 17.5%;
+    --accent-foreground: 210 40% 98%;
+
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 210 40% 98%;
+
+    --border: 180 87% 25%; /* Match primary color */
+    --input: 180 87% 25%; /* Match primary color */
+    --ring: 180 87% 35%;
+
+    --sidebar-background: 180 87% 20%; /* Darker teal for dark mode */
+    --sidebar-foreground: 0 0% 100%;
+    --sidebar-primary: 173 87% 32%;
+    --sidebar-primary-foreground: 0 0% 100%;
+    --sidebar-accent: 180 87% 35%; /* Slightly lighter teal */
+    --sidebar-accent-foreground: 0 0% 100%;
+    --sidebar-border: 180 87% 15%; /* Even darker teal */
+    --sidebar-ring: 180 87% 40%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground;
+  }
+}
+
+.give-freely-root, .give-freely-root * {
+  display: none !important;
+}
